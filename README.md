@@ -1,8 +1,8 @@
-# Yeshiva University Data Structures Semester Project, Spring 2021: Document Store and Search Engine
+# Yeshiva University Data Structures Semester Project, Spring 2022: Document Store and Search Engine
 
 ## Preface
 
-This project was our semester project at Yeshiva University for Data Structures in Spring 2021.\
+This project was our semester project at Yeshiva University for Data Structures in Spring 2022.\
 The project included implementing different types of data structures (including B+ Tree, Trie, and Heap) for the purpose of creating a program which can store documents, search for words in those documents, and many other features. Below is an edited copy of the README provided for the original project which outlines the specifications in much greater detail.
 
 ## Introduction to the Project
