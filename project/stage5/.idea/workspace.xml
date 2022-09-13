@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="395e574c-0f94-4b85-8f7f-3a820f736cf4" name="Changes" comment="final debug">
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage5/impl/DocumentStoreImplTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage5/impl/TestUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stage1/src/test/java/edu/yu/StageOneUnitTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stage1/src/test/java/edu/yu/StageOneUnitTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage5/impl/DocumentPersistenceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage5/impl/DocumentPersistenceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage5/impl/DocumentStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/yu/cs/com1320/project/stage5/impl/DocumentStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage5/impl/DocumentStoreImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage5/impl/DocumentStoreImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage5/impl/PersistenceManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage5/impl/PersistenceManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroToAlgorithms/assignments/BTKeysAtSameLevel/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroToAlgorithms/assignments/BTKeysAtSameLevel/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../IntroToAlgorithms/assignments/BTKeysAtSameLevel/src/main/java/edu/yu/introtoalgs/BTKeysAtSameLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../IntroToAlgorithms/assignments/BTKeysAtSameLevel/src/main/java/edu/yu/introtoalgs/BTKeysAtSameLevel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29d6Wkx3qVDjeE0IbyzOlbrA08T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.yu.cs.com1320.project.stage5.impl" />
+      <recent name="edu.yu.cs.com1320.project.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DocumentStoreImplTest">
+    <configuration name="DocumentStoreImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com1320_project_grading_stage_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentStoreImplTest2.testSearchBringBack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com1320_project_grading_stage_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest2" />
+      <option name="METHOD_NAME" value="testSearchBringBack" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentStoreImplTest2.testSearchPrefixBringBack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com1320_project_grading_stage_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest2" />
+      <option name="METHOD_NAME" value="testSearchPrefixBringBack" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DocumentStoreImplTest.stage5PushToDiskViaMaxDocCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com1320_project_grading_stage_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.DocumentStoreImplTest" />
+      <option name="METHOD_NAME" value="stage5PushToDiskViaMaxDocCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersistenceManagerTest.deserializeByteArray2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com1320_project_grading_stage_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.yu.cs.com1320.project.stage5.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.yu.cs.com1320.project.stage5.impl" />
+      <option name="MAIN_CLASS_NAME" value="edu.yu.cs.com1320.project.stage5.impl.PersistenceManagerTest" />
+      <option name="METHOD_NAME" value="deserializeByteArray2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DocumentStoreImplTest" />
+        <item itemvalue="JUnit.DocumentStoreImplTest.stage5PushToDiskViaMaxDocCount" />
+        <item itemvalue="JUnit.DocumentStoreImplTest2.testSearchPrefixBringBack" />
+        <item itemvalue="JUnit.DocumentStoreImplTest2.testSearchBringBack" />
+        <item itemvalue="JUnit.PersistenceManagerTest.deserializeByteArray2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="395e574c-0f94-4b85-8f7f-3a820f736cf4" name="Changes" comment="" />
+      <created>1653430657761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653430657761</updated>
+      <workItem from="1653430659524" duration="30995000" />
+      <workItem from="1653521819283" duration="57395000" />
+      <workItem from="1653846582943" duration="152000" />
+      <workItem from="1653849060623" duration="13400000" />
+      <workItem from="1654255415088" duration="1540000" />
+      <workItem from="1661830320560" duration="18000" />
+      <workItem from="1661890231018" duration="17000" />
+      <workItem from="1661890271812" duration="25000" />
+      <workItem from="1661890323476" duration="49000" />
+      <workItem from="1661890920536" duration="6000" />
+    </task>
+    <task id="LOCAL-00001" summary="stage5 first commit">
+      <created>1653520354824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653520354824</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated data structures to use URIs">
+      <created>1653579373400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653579373400</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added disk support to certain methods">
+      <created>1653588476391</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653588476391</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updated">
+      <created>1653597088383</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653597088383</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed deserializer for byte array documents">
+      <created>1653604798948</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1653604798948</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fixed some bugs">
+      <created>1653619506678</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653619506678</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixed some more bugs">
+      <created>1653684144750</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653684144750</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixed undo">
+      <created>1653792126420</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653792126420</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added support for temporarily viewing docs on disk even if mem limit is violated">
+      <created>1653798741273</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653798741273</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added support for temporarily viewing docs on disk even if mem limit is violated">
+      <created>1653853143091</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653853143091</updated>
+    </task>
+    <task id="LOCAL-00011" summary="final debug">
+      <created>1653867790893</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653867790893</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="stage5 first commit" />
+    <MESSAGE value="updated data structures to use URIs" />
+    <MESSAGE value="added disk support to certain methods" />
+    <MESSAGE value="updated" />
+    <MESSAGE value="fixed deserializer for byte array documents" />
+    <MESSAGE value="fixed some bugs" />
+    <MESSAGE value="fixed some more bugs" />
+    <MESSAGE value="fixed undo" />
+    <MESSAGE value="added support for temporarily viewing docs on disk even if mem limit is violated" />
+    <MESSAGE value="final debug" />
+    <option name="LAST_COMMIT_MESSAGE" value="final debug" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/edu/yu/cs/com1320/project/stage5/impl/DocumentStoreImplTest.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
